@@ -1,4 +1,4 @@
-class BaseQueue:
+class BaseQueue(object):
 
     def __init__(self):
         self.__queue = []

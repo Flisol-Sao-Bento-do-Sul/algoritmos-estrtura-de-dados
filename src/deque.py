@@ -1,4 +1,4 @@
-from base.basequeue import BaseQueue
+from algoritmos_estrutura_de_dados.src.base.basequeue import BaseQueue
 
 import random
 

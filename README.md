@@ -7,6 +7,7 @@ Este repositório disponibiliza alguns algoritmos e estruturas de dados utilizad
 |                                                                                                       |
 | [Deque](./src/deque.py)                                                                               |
 | [Fila](./src/fila.py)                                                                                 |
+| [Fila de Prioridades](./src/priority_queue.py)                                                        |
 | [Lista Ligada](./src/linked_list.py)                                                                  |
 | [Pilha](./src/pilha.py)                                                                               |
 |                                                                                                       |

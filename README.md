@@ -12,3 +12,12 @@ Este repositório disponibiliza alguns algoritmos e estruturas de dados utilizad
 | [Pilha](./src/pilha.py)                                                                               |
 |                                                                                                       |
 
+
+---------------------------------------------------------------------------------------------------------
+
+|                                           Algoritmos de Ordenação                                     |
+|-------------------------------------------------------------------------------------------------------|
+|                                                                                                       |
+| [Bubble Sort](./src/bubble_sort.py)                                                                   |
+|                                                                                                       |
+
